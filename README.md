@@ -1,4 +1,4 @@
-# Movie Axios
+# 🎬 Movie Axios
 
 > A basic application where you can select a movie and see all the franchise and images.
 
